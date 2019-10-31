@@ -1,0 +1,5 @@
+name: mi-bici
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
